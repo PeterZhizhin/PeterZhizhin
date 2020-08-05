@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello, I'm Petr Zhizhin
+## Software Engineering, Machine Learning, AI, Natural Language Processing
+[![](https://img.shields.io/badge/-CV/Resume-important?style=flat-square)](https://github.com/PeterZhizhin/resume/releases/download/latest/zhizhin_petr_resume.pdf)
+[![](https://img.shields.io/badge/AddMe-LinkedIn-blue?logo=LinkedIn)](https://www.linkedin.com/in/petr-zhizhin-9a5a6a75/)
+![Twitter Follow](https://img.shields.io/twitter/follow/PeterZhizhin?style=social)
+[![](https://img.shields.io/badge/-Telegram-blue?logo=telegram)](https://t.me/PeterZhizhin)
 
-<!--
-**PeterZhizhin/PeterZhizhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My favourite projects
+### [Noise Conditional Score Networks reimplementation](https://github.com/PeterZhizhin/HSE-DeepLearning-NCSN)
 
-Here are some ideas to get you started:
+Create natural-looking digit images from noise. Uses [Noise Conditional Score Networks](https://arxiv.org/pdf/1907.05600.pdf) and Langevin dynamics.
+![MNIST generation process](https://raw.githubusercontent.com/PeterZhizhin/HSE-DeepLearning-NCSN/master/samples/mnist_generation_process.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Uncertainty detection on biological texts using BERT](https://github.com/PeterZhizhin/BERTUncertaintyDetection)
+
+Detect words that indicate uncertainty in biological texts with high accuracy.
+![](https://github.com/PeterZhizhin/BERTUncertaintyDetection/raw/master/pictures/BERT_demo.png)
