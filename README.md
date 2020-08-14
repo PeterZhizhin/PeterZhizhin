@@ -15,3 +15,9 @@ Create natural-looking digit images from noise. Uses [Noise Conditional Score Ne
 
 Detect words that indicate uncertainty in biological texts with high accuracy.
 ![](https://github.com/PeterZhizhin/BERTUncertaintyDetection/raw/master/pictures/BERT_demo.png)
+
+### [Ray tracer in C++](https://github.com/PeterZhizhin/RayTracerCpp)
+
+Ray tracer that was based the [Peter Shirley's book](https://raytracing.github.io/books/RayTracingInOneWeekend.html).
+
+![](https://raw.githubusercontent.com/PeterZhizhin/RayTracerCpp/master/images/balls_scene.png)
